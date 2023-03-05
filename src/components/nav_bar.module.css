@@ -1,0 +1,30 @@
+.bar {
+    display: flex;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 0px 1fr;
+    background-color:rgb(234, 228, 228);
+    border-radius: 3px;
+    justify-content: flex-start;
+}
+
+.bar a {
+    text-decoration: none;
+}
+
+.option {
+    padding: 10px 30px;
+    list-style: none;
+    color: black;
+}
+
+.option:hover {
+    color:mintcream;
+}
+
+.input {
+    justify-self: flex-end;
+    height: 15px;
+    align-self: center;
+}
+
